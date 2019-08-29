@@ -7,7 +7,7 @@ CA: M. Kirsche - Office Hours TBD
 
 ## Course Resources:
 - [Syllabus and Policies](https://github.com/schatzlab/biomedicalresearch2019/tree/master/policies)
-- [Piazza Discussion Board](piazza.com/jhu/fall2019/en601452)
+- [Piazza Discussion Board](http://piazza.com/jhu/fall2019/en601452)
 - [GradeScope](https://www.gradescope.com/courses/60230) Entry Code: MPK8BX
 
 #### Recommended Prerequisites
