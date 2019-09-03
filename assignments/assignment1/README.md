@@ -5,7 +5,7 @@ Due Date: Wednesday, Sept. 11, 2019 @ 11:59pm <br>
 ### Assignment Overview
 
 In this assignment you will profile the overall structure of the genomes of several important species and then consider the sequencing data needed for each of them.
-As a reminder, any questions about the assignment should be posted to [Piazza](https://piazza.com/jhu/spring2019/en601749/home)
+As a reminder, any questions about the assignment should be posted to [Piazza](https://piazza.com/jhu/fall2019/en601452/resources)
 
 ### Question 1: Chromosome structures (10 pts)
 
