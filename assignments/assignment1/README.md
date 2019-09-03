@@ -7,7 +7,7 @@ Due Date: Wednesday, Sept. 11, 2019 @ 11:59pm <br>
 In this assignment you will profile the overall structure of the genomes of several important species and then consider the sequencing data needed for each of them.
 As a reminder, any questions about the assignment should be posted to [Piazza](https://piazza.com/jhu/spring2019/en601749/home)
 
-### Question 1: Chromosome structures
+### Question 1: Chromosome structures (10 pts)
 
 Download the chomosome size files for the following genomes (Note these have been preprocessed to only include main chromosomes):
 
@@ -15,8 +15,7 @@ Download the chomosome size files for the following genomes (Note these have bee
 2. [E. coli (Escherichia coli K12)](http://schatz-lab.org/biomedicalresearch2019/assignments/assignment1/ecoli.chrom.sizes) - One of the most commonly studied bacteria [[info]](https://en.wikipedia.org/wiki/Escherichia_coli)
 3. [Fruit Fly (Drosophila melanogaster, dm6)](http://schatz-lab.org/biomedicalresearch2019/assignments/assignment1/dm6.chrom.sizes) - One of the most important model species for genetics [[info]](https://en.wikipedia.org/wiki/Drosophila_melanogaster)
 4. [Human (hg38)](http://schatz-lab.org/biomedicalresearch2019/assignments/assignment1/hg38.chrom.sizes) - us :) [[info]](https://en.wikipedia.org/wiki/Homo_sapiens)
-5. [Worm (Caenorhabditis elegans, ce10)](http://schatz-lab.org/biomedicalresearch2019/assignments/assignment1/ce10.chrom.sizes) - One of the most important animal model species [[info]](https://en.wikipedia.org/wiki/Caenorhabditis_elegans)
-6. [Yeast (Saccharomyces cerevisiae, sacCer3)](http://schatz-lab.org/biomedicalresearch2019/assignments/assignment1/yeast.chrom.sizes) - an important eukaryotic model species, also good for bread and beer [[info]](https://en.wikipedia.org/wiki/Saccharomyces_cerevisiae)
+5. [Yeast (Saccharomyces cerevisiae, sacCer3)](http://schatz-lab.org/biomedicalresearch2019/assignments/assignment1/yeast.chrom.sizes) - an important eukaryotic model species, also good for bread and beer [[info]](https://en.wikipedia.org/wiki/Saccharomyces_cerevisiae)
 
 Using these files, make a table with the following information per species:
 
@@ -27,15 +26,15 @@ Using these files, make a table with the following information per species:
 - Question 1.5. Mean chromosome length
 
 
-### Question 2: Coverage Statistics
+### Question 2: Coverage Statistics (10pts)
 
 This script [readsim.py](http://schatz-lab.org/biomedicalresearch2019/assignments/assignment1/readsim.py) will simulate shotgun sequencing of a genome of given length. The arguments for it are:
 
 ```
-$ readsim.py <genomesize> <readlength> <numberreads> > reads.bed
+$ readsim.py genomelength readlength numberreads > reads.bed
 ```
 
-Here `genomesize` is the total genome size; `readlength` is the length of each of the reads; `numberreads` is the total number of reads to simulate. The output file is a `bed` file that just lists the name, chromosome, start and end position of each read.
+Here `genomelength` is the total length of the genome; `readlength` is the length of each of the reads; `numberreads` is the total number of reads to simulate. The output file is a [bed file](https://genome.ucsc.edu/FAQ/FAQformat.html) that just lists the chromosome name, start and end position of each read, and read name.
 
 - Question 2.1 How many 100bp reads should we simulate so that we cover the E. coli genome with 5x, 10x, 50x, and 100x coverage (mean coverage)?
 - Question 2.2 Run readsim.py with the 4 numbers of reads from Q2.1, and plot the histogram of coverage for each dataset. Hint: allocate an array the size of the genome initialized to 0, and use for loops to add +1 to each position covered by each read. Then use the numpy histogram function (or write your own) to tally how many bases have how much coverage
