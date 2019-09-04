@@ -1,7 +1,7 @@
 # EN.601.452 / AS.020.415 Computational Biomedical Research &amp; Advanced Biomedical Research
 Class Hours: Monday + Wednesday @ 3p - 3:50p in Hodson 311 <br>
 Schatz Office Hours: Monday @ 4-5p in Malone 323 and by appointment<br>
-CA: M. Kirsche - Office Hours TBD
+CA: Melanie Kirsche - Office Hours TBD
 
 **The goal of this course is to prepare undergraduates to understand and perform state-of-the-art biomedical research.** This will be accomplished through three main components: (1) classroom-style lectures on cross cutting techniques for biomedical research focusing on data visualization, statistical inference, and scientific computing; (2) research presentations from distinguished faculty on their active research projects; and (3) a major research project to be performed under the mentorship of a JHU professor. Students will present their research during an in-class symposium at the end of the semester. Grading will be based on homework exercises, a written research proposal, an interim research report, an oral research presentation, and a final research report.
 
