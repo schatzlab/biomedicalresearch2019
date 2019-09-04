@@ -29,7 +29,7 @@ CA: Melanie Kirsche - Office Hours TBD
 ## Schedule
 | # | Date | Lecture | Readings & Resources | Assignment |
 |:--|:-----|:--------|:---------------------|:-----------|
-|1.  | Th 8/29   | Lecture 1. Introduction | * [Biological data sciences in genome research (Schatz, 2015, Genome Research)](http://genome.cshlp.org/content/25/10/1417.full) <br> * [Big Data: Astronomical or Genomical? (Stephens et al, 2015, PLOS Biology)](http://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1002195) | [Sign Up for Piazza]() |
+|1.  | Th 8/29   | [Lecture 1. Introduction](http://schatz-lab.org/biomedicalresearch2019/lectures/01.Introduction.pdf) | * [Biological data sciences in genome research (Schatz, 2015, Genome Research)](http://genome.cshlp.org/content/25/10/1417.full) <br> * [Big Data: Astronomical or Genomical? (Stephens et al, 2015, PLOS Biology)](http://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1002195) | [Sign Up for Piazza]() |
 |    | Mon 9/2   | &#x1F538; *Labor Day Break!* | | |
 |2.  | Wed 9/4   | Lecture 2. Genome Sequencing | * [Coming of age: ten years of next-generation sequencing technologies (Goodwin et al, 2016, Nature Reviews Genetics)](http://www.nature.com/nrg/journal/v17/n6/full/nrg.2016.49.html) <br> * [High‐throughput sequencing for biology and medicine (Soon et al, 2013, Molecular Systems Biology)](http://msb.embopress.org/content/9/1/640) | [Assignment 1](https://github.com/schatzlab/biomedicalresearch2019/blob/master/assignments/assignment1/README.md)
 |3.  | Mon 9/9   | Lecture 3. Genome Assembly | * [De novo genome assembly: what every biologist should know (Baker, 2012, Nature Methods)](http://www.nature.com/nmeth/journal/v9/n4/full/nmeth.1935.html)
