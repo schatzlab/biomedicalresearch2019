@@ -32,7 +32,7 @@ As a reminder, any questions about the assignment should be posted to [Piazza](h
 
 ### Question 2: Genome Assembly (10pts)
 
-Download the reads from: [https://github.com/schatzlab/biomedicalresearch2019/raw/master/assignments/assignment2/reads.fq.gz]()
+Download the reads from: [https://github.com/schatzlab/biomedicalresearch2019/raw/master/assignments/assignment2/reads.fq.gz](https://github.com/schatzlab/biomedicalresearch2019/raw/master/assignments/assignment2/reads.fq.gz)
 
 - Question 2a. How many reads are provided and how long are they? 
 - Question 2b. Assume the genome is 100kbp long. How much coverage do you expect to have? [Hint: A little arthmetic]
