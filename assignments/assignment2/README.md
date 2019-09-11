@@ -35,7 +35,7 @@ As a reminder, any questions about the assignment should be posted to [Piazza](h
 Download the reads from: [https://github.com/schatzlab/biomedicalresearch2019/raw/master/assignments/assignment2/reads.fq.gz](https://github.com/schatzlab/biomedicalresearch2019/raw/master/assignments/assignment2/reads.fq.gz)
 
 - Question 2a. How many reads are provided and how long are they? 
-- Question 2b. Assume the genome is 100kbp long. How much coverage do you expect to have? [Hint: A little arthmetic]
+- Question 2b. Assume the genome is 100kbp long. How much coverage do you expect to have? [Hint: A little arithmetic]
 - Question 2c. Assemble the reads using Spades.  How many contigs were produced? [Hint: try `grep -c '>' contigs.fasta`]
 - Question 2d. What is the total length of the contigs? [Hint: try `samtools faidx`, plus a short script/excel]
 - Question 2e. What is the size of your large contig? [Hint: check `samtools faidx` plus `sort -n`]
