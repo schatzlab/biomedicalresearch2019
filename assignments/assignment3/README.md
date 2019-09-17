@@ -37,21 +37,3 @@ solving the question. You do not need to show code for plotting.
 Submit your solutions by uploading the PDF to [GradeScope](https://www.gradescope.com/courses/60230). The Entry Code is: MPK8BX 
 
 If you submit after this time, you will start to use up your late days. Remember, you are only allowed 5 late days (120 hours) for the entire semester!
-
-
-### Resources
-
-####  [Spades](http://cab.spbu.ru/software/spades/) - Short Read Assembler.
-
-Normally spades would try several values of k and merge the results together, but here we will force it to just use k=31 to save time. The assembly should take less than 1 minute.
-
-```
-$ spades.py --s1 reads.fq -o asm -t 4 -k 31
-```
-
-#### [SAMTools](http://www.htslib.org/) - Index a fasta file and record the length of every sequence as the second column
-
-```
-$ ./samtools faidx /path/to/genome.fa 
-```
-
