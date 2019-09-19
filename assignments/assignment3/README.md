@@ -1,6 +1,6 @@
 ## Assignment 3: Sequence Alignment
-Assignment Date: Wednesday, Sept 18, 2019 <br>
-Due Date: Wednesday, Sept. 25, 2019 @ 11:59pm <br>
+Assignment Date: Monday, Sept 23, 2019 <br>
+Due Date: Monday, Sept. 30, 2019 @ 11:59pm <br>
 
 ### Assignment Overview
 
