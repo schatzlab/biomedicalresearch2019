@@ -21,6 +21,8 @@ Please mark your preference for the following topics:
 
 - Develop a tool/webapp to generate PCA plots of how people are related
 
+- Develop a tool/webapp for inferring the [surname](https://science.sciencemag.org/content/339/6117/321.long) from a genome.
+
 - Your own idea! Please describe in 5-10 sentences, plus a figure if needed
 
 #### Team Disease Risk
@@ -32,6 +34,8 @@ Please mark your preference for the following topics:
 - Most disease genetics approaches focus exclusively on single nucleotide variations. Develop a pipeline to evaluate impact of structural variations on coding sequence (insertion/deletion of exons, flanking regulatory sequences). Look for common variants in the 1000 genomes project.
 
 - Use OMIM variants to train a classifier (CNN, Random Forest, etc) to recognize clinically relevant variants and test through cross validation
+
+- Develop an algorithm to align repetitive sequences uses high confidence unique markers
 
 - Your own idea! Please describe in 5-10 sentences, plus a figure if needed
 
