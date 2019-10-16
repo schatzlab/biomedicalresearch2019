@@ -6,16 +6,11 @@ Due Date: Tuesday, Oct 22, 2019 @ 11:59pm <br>
 
 #### Team A:
 
-Mary Joseph
-Christian Seremetis
-Gautam Prabhu
-Joanna Guo
+Mary Joseph, Christian Seremetis, Gautam Prabhu, Joanna Guo
 
 #### Team B:
 
-David Yang
-Kavya Tumkur
-Richard Xu
+David Yang, Kavya Tumkur, Richard Xu
 
 ### Proposal
 
