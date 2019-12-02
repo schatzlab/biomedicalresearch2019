@@ -54,10 +54,10 @@ CA: Melanie Kirsche - Office Hours Wednesday @ 9-10 AM in Malone 216 and by appo
 |22. | Wed 11/13 | [Lecture 15. Plant Genomics](http://schatz-lab.org/biomedicalresearch2019/lectures/22.plantgenomics.pdf) | * [Duplication of a domestication locus neutralized a cryptic variant that caused a breeding barrier in tomato (Soyk et al. 2019 Nature Plants](https://www.nature.com/articles/s41477-019-0422-z) <br> * [RaGOO: Fast and accurate reference-guided scaffolding of draft genomes (Alonge et al. 2019. Genome Biology)](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-019-1829-6)
 |23. | Mon 11/18 | Grad Student Forum
 |24. | Wed 11/20 | Research Lab 4: Presentation Preparation
-|    | Mon 11/25 | &#x1F538; *Thanksgiving Break!* | | |
-|    | Wed 11/27 | &#x1F538; *Thanksgiving Break!* | | |
+|    | Mon 11/25 | &#x1F538; *Thanksgiving Break!* | 
+|    | Wed 11/27 | &#x1F538; *Thanksgiving Break!* | 
 |25. | Mon 11/18 | [Lecture 16. Genomic Futures]() |  * ["Snyderome" Personal Omics Profiling Reveals Dynamic Molecular and Medical Phenotypes (Chen et al, 2012, Cell)](http://www.sciencedirect.com/science/article/pii/S0092867412001663) <br> * [Identifying Personal Genomes by Surname Inference (Gymrek et al, 2013, Science)](http://science.sciencemag.org/content/339/6117/321) 
-|26. | Wed 12/4  | Research Presentations  | | Research Presentation |
-|    | Wed 12/18 | Research Report Due     | | Research Report Due |
+|26. | Wed 12/4  | [Research Presentations](https://github.com/schatzlab/biomedicalresearch2019/blob/master/project/presentations.md)  | | [Research Presentation](https://github.com/schatzlab/biomedicalresearch2019/blob/master/project/presentations.md) 
+|    | Wed 12/18 | [Research Report Due](https://github.com/schatzlab/biomedicalresearch2019/blob/master/project/finalreport.md)     | | [Research Report Due](https://github.com/schatzlab/biomedicalresearch2019/blob/master/project/finalreport.md) 
 
 
